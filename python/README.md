@@ -7,9 +7,9 @@
 
 **Fig2F-G.ipynb**: model PR AUC using inputs of all peptide vs all proteins for Type vs DTAA prediction and test metrics (Fig 2F, G)  
 
-**Figs3+4.ipynb**: discovery of most predictive proteins between all aortic diseases compared to all controls (Fig3 A-E); Venn diagram of overlapping proteins among highest permutation importance, VIP and most signficant p values (Fig 4A)  
+**Figs3+4.ipynb**: discovery of most predictive proteins between all aortic diseases compared to all controls (Fig3 A-E); Venn diagram of overlapping proteins among highest permutation importance scores, VIP scores and most signficant p values (Fig 4A)  
 
-**SFigs3+4.ipynb**:discovery of most predictive proteins between Tupe B and DTAA (SFig3 A-E); Venn diagram of overlapping proteins among highest permutation importance and VIP scores (SFig 4A)  
+**SFigs3+4.ipynb**: discovery of most predictive proteins between Type B and DTAA (SFig3 A-E); Venn diagram of overlapping proteins among highest permutation importance and VIP scores (SFig 4A)  
 
 **environment.yml**: package specifications to re-create the environment  
 
