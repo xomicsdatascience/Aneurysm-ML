@@ -11,5 +11,5 @@
 
 **SFigs3+4.ipynb**: discovery of most predictive proteins between Type B and DTAA (SFig3 A-E); Venn diagram of overlapping proteins among highest permutation importance and VIP scores (SFig 4A)  
 
-**environment.yml**: package specifications to re-create the environment  
+**req.txt**: package specifications to re-create the environment  
 
